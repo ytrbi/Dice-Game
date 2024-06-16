@@ -14,15 +14,13 @@ Rolling a 1 ends the current player's turn and instantly transfers control to th
 ## Flowchart
 Here's a flowchart that illustrates the game logic:
 
-![Game Flowchart](Assests/pig-gae-flowchart.png)
+![Game Flowchart](Assests/pig-game-flowchart.png)
 
 
 ## Gameplay Video
 Check out this video to see the gameplay in action:
 
 [![Gameplay Video](path_to_video_thumbnail)](path_to_video)
-
-
 
 
 ## Participating

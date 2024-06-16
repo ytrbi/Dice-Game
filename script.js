@@ -1,6 +1,8 @@
 'use strict';
 
 // Selecting elements
+const player0 = document.querySelector('.player--0');
+const player1 = document.querySelector('.player--1');
 const score0 = document.getElementById('score--0');
 const score1 = document.getElementById('score--1');
 const dice = document.querySelector('.dice'); // Dice image
@@ -31,9 +33,14 @@ btnRoll.addEventListener('click', function() {
     if(randomNum !== 1) {
         // Add randomNum to current score
         currentScore += randomNum;
-        currentPly1.textContent = currentScore;
+        Document.getElementById(`current--${activePlayer}`).textContent = currentScore;
     } else {
         // switch to the next player
+        Document.getElementById(`current--${activePlayer}`).textContent = 0;
+        currentScore = 0;
+        activePlayer = activePlayer === 0 ? 1 : 0;
+        player0.classList.toggle(`player--active`); 
+        player1.classList.toggle(`player--active`);
     }
     // Update the score
     // Add the rolled number to the current score

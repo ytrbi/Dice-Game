@@ -17,12 +17,6 @@ Here's a flowchart that illustrates the game logic:
 ![Game Flowchart](Assests/pig-game-flowchart.png)
 
 
-## Gameplay Video
-Check out this video to see the gameplay in action:
-
-[![Gameplay Video](path_to_video_thumbnail)](path_to_video)
-
-
 ## Participating
 Any and all contributions are appreciated! Here are a few methods to get you going:
 1. Report bugs: Kindly inform us of any bugs you come across. Declare a problem and share it with us.

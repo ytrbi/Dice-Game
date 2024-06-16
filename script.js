@@ -90,5 +90,4 @@ btnNew.addEventListener('click', function() {
   player0.classList.add('player--active');
   player1.classList.remove('player--active');
 
-  console.log('Game reset');
 });

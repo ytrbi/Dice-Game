@@ -1,5 +1,9 @@
+<div align="right">
+  
 ![Forks](https://img.shields.io/badge/forks-4-blue)
 ![Stars](https://img.shields.io/badge/stars-13-yellow)
+</div>
+
 # Dice-Game 
 
 ## Description
@@ -31,3 +35,9 @@ Any and all contributions are appreciated! Here are a few methods to get you goi
 3. Add your contributions (code or documentation)
 4. Commit and push
 5. Wait for pull request to be merged
+
+
+<br />
+<p align="center">
+    <img align="center" src="https://madewithlove.now.sh/sa?heart=true&template=for-the-badge" alt="Made with love in Saudi Arabia">
+</p>
